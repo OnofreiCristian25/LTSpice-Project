@@ -1,0 +1,65 @@
+Circuit: * C:\Users\Tedy_\Desktop\proiect scia\etaje\ai.asc
+
+WARNING: Less than two connections to node ac.  This node is used by vin1.
+WARNING: Less than two connections to node sr.  This node is used by v5.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-05
+Gmin = 1.6455e-06
+Gmin = 1.76685e-07
+Gmin = 1.89714e-08
+Gmin = 2.03704e-09
+Gmin = 2.18725e-10
+Gmin = 2.34854e-11
+Gmin = 2.52173e-12
+Gmin = 2.70769e-13
+Gmin = 0
+Gmin stepping succeeded in finding the operating point.
+
+N-Period=1
+Fourier components of V(outd)
+DC component:-1.5849e-06
+
+Harmonic	Frequency	 Fourier 	Normalized	 Phase  	Normalized
+ Number 	  [Hz]   	Component	 Component	[degree]	Phase [deg]
+    1   	 1.270e+4	 1.190e-1	 1.000e+0	   90.12°	    0.00°
+    2   	 2.540e+4	 3.165e-6	 2.661e-5	  -39.97°	 -130.09°
+    3   	 3.810e+4	 3.160e-6	 2.656e-5	 -149.96°	 -240.08°
+    4   	 5.080e+4	 3.152e-6	 2.650e-5	  100.06°	    9.94°
+    5   	 6.350e+4	 3.142e-6	 2.641e-5	   -9.92°	 -100.04°
+    6   	 7.620e+4	 3.131e-6	 2.631e-5	 -119.89°	 -210.01°
+    7   	 8.890e+4	 3.117e-6	 2.620e-5	  130.15°	   40.03°
+    8   	 1.016e+5	 3.100e-6	 2.606e-5	   20.20°	  -69.92°
+    9   	 1.143e+5	 3.082e-6	 2.591e-5	  -89.75°	 -179.87°
+   10   	 1.270e+5	 3.062e-6	 2.574e-5	  160.32°	   70.20°
+Partial Harmonic Distortion: 0.007877%
+Total Harmonic Distortion:   0.027849%
+
+
+
+
+
+Date: Thu Jan 18 11:08:21 2024
+Total elapsed time: 0.360 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 3153
+traniter = 2798
+tranpoints = 1400
+accept = 1290
+rejected = 110
+matrix size = 70
+fillins = 25
+solver = Normal
+Avg thread counts: 3.1/5.2/5.2/3.1
+Matrix Compiler1: 4.53 KB object code size  2.2/1.2/[0.8]
+Matrix Compiler2: 7.17 KB object code size  1.4/1.4/[0.9]
+

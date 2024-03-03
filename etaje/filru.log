@@ -1,0 +1,61 @@
+Circuit: * C:\Users\Tedy_\Desktop\proiect scia\etaje\filru.asc
+
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-05
+Gmin = 1.6455e-06
+Gmin = 1.76685e-07
+Gmin = 1.89714e-08
+Gmin = 2.03704e-09
+Gmin = 2.18725e-10
+Gmin = 2.34854e-11
+Gmin = 2.52173e-12
+Gmin = 2.70769e-13
+Gmin = 0
+Gmin stepping succeeded in finding the operating point.
+
+N-Period=1
+Fourier components of V(out_tb)
+DC component:1.69219e-07
+
+Harmonic	Frequency	 Fourier 	Normalized	 Phase  	Normalized
+ Number 	  [Hz]   	Component	 Component	[degree]	Phase [deg]
+    1   	 1.270e+4	 4.711e-2	 1.000e+0	  -89.56°	    0.00°
+    2   	 2.540e+4	 3.382e-7	 7.178e-6	  -70.90°	   18.66°
+    3   	 3.810e+4	 3.378e-7	 7.171e-6	 -106.35°	  -16.79°
+    4   	 5.080e+4	 3.374e-7	 7.161e-6	 -141.80°	  -52.24°
+    5   	 6.350e+4	 3.368e-7	 7.149e-6	 -177.25°	  -87.69°
+    6   	 7.620e+4	 3.361e-7	 7.133e-6	  147.31°	  236.87°
+    7   	 8.890e+4	 3.352e-7	 7.116e-6	  111.86°	  201.42°
+    8   	 1.016e+5	 3.343e-7	 7.095e-6	   76.42°	  165.98°
+    9   	 1.143e+5	 3.332e-7	 7.072e-6	   40.99°	  130.55°
+   10   	 1.270e+5	 3.320e-7	 7.047e-6	    5.55°	   95.11°
+Partial Harmonic Distortion: 0.002137%
+Total Harmonic Distortion:   0.014667%
+
+
+
+Date: Thu Jan 18 11:12:55 2024
+Total elapsed time: 0.219 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 2453
+traniter = 2098
+tranpoints = 1050
+accept = 1048
+rejected = 2
+matrix size = 13
+fillins = 3
+solver = Normal
+Avg thread counts: 3.8/6.6/6.6/3.8
+Matrix Compiler1: 764 bytes object code size  0.6/0.3/[0.3]
+Matrix Compiler2: 1.17 KB object code size  0.4/0.5/[0.3]
+

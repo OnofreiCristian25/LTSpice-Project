@@ -1,0 +1,44 @@
+Circuit: * C:\Users\Tedy_\Desktop\proiect scia\etaje\pga.asc
+
+Direct Newton iteration for .op point succeeded.
+N-Period=1
+Fourier components of V(out)
+DC component:-6.11392e-06
+
+Harmonic	Frequency	 Fourier 	Normalized	 Phase  	Normalized
+ Number 	  [Hz]   	Component	 Component	[degree]	Phase [deg]
+    1   	 1.270e+4	 4.006e-2	 1.000e+0	  -89.92°	    0.00°
+    2   	 2.540e+4	 1.867e-5	 4.661e-4	 -121.00°	  -31.08°
+    3   	 3.810e+4	 1.527e-4	 3.812e-3	   89.72°	  179.63°
+    4   	 5.080e+4	 1.323e-5	 3.303e-4	  -43.18°	   46.74°
+    5   	 6.350e+4	 1.157e-4	 2.889e-3	  -85.48°	    4.43°
+    6   	 7.620e+4	 1.187e-5	 2.964e-4	   -2.03°	   87.89°
+    7   	 8.890e+4	 6.594e-5	 1.646e-3	   72.62°	  162.53°
+    8   	 1.016e+5	 1.549e-5	 3.866e-4	   53.20°	  143.11°
+    9   	 1.143e+5	 1.491e-5	 3.721e-4	 -154.80°	  -64.88°
+   10   	 1.270e+5	 1.754e-5	 4.378e-4	  147.69°	  237.60°
+Partial Harmonic Distortion: 0.514570%
+Total Harmonic Distortion:   0.549456%
+
+
+
+
+
+Date: Thu Jan 18 11:18:07 2024
+Total elapsed time: 0.233 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 2968
+traniter = 2938
+tranpoints = 1470
+accept = 1236
+rejected = 234
+matrix size = 27
+fillins = 7
+solver = Normal
+Avg thread counts: 3.0/5.0/5.0/3.0
+Matrix Compiler1: 1.41 KB object code size  1.0/0.6/[0.6]
+Matrix Compiler2: 1.99 KB object code size  0.5/1.0/[0.5]
+

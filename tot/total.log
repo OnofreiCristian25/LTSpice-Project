@@ -1,0 +1,51 @@
+Circuit: * C:\Users\Tedy_\Desktop\proiect scia\tot\total.asc
+
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-05
+Gmin = 1.6455e-06
+Gmin = 1.76685e-07
+Gmin = 1.89714e-08
+Gmin = 2.03704e-09
+Gmin = 2.18725e-10
+Gmin = 2.34854e-11
+Gmin = 2.52173e-12
+Gmin = 2.70769e-13
+Gmin = 0
+Gmin stepping succeeded in finding the operating point.
+
+Ignoring empty pin current: Ix(x3:s1)
+Ignoring empty pin current: Ix(x3:s2)
+Ignoring empty pin current: Ix(x3:s3)
+Ignoring empty pin current: Ix(x3:s4)
+Ignoring empty pin current: Ix(x3:s5)
+Ignoring empty pin current: Ix(x3:s1)
+Ignoring empty pin current: Ix(x3:s2)
+Ignoring empty pin current: Ix(x3:s3)
+Ignoring empty pin current: Ix(x3:s4)
+Ignoring empty pin current: Ix(x3:s5)
+
+Date: Wed Jan 17 21:37:40 2024
+Total elapsed time: 0.623 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 14884
+traniter = 14116
+tranpoints = 4225
+accept = 3231
+rejected = 994
+matrix size = 177
+fillins = 118
+solver = Normal
+Avg thread counts: 4.2/4.6/1.9/1.4
+Matrix Compiler1: 13.53 KB object code size  3.6/2.1/[1.6]
+Matrix Compiler2: 16.55 KB object code size  1.9/2.4/[1.2]
+
